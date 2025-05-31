@@ -6,7 +6,7 @@
 
 ## 🎥 專案成果影片
 
-[![Yt連結](https://www.youtube.com/watch?v=JRGKaWM_o38)
+https://www.youtube.com/watch?v=JRGKaWM_o38
 
 👉 點擊上方影片可觀看專案成果展示！
 
