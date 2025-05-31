@@ -1,0 +1,5 @@
+train: ./toyota_dataset/images/train
+val: ./toyota_dataset/images/val
+
+nc: 1
+names: ['toyota']
